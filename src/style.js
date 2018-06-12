@@ -7,7 +7,7 @@ export const Container = styled.li`
 export const Circle = styled.span`
   height: 11px;
   width: 11px;
-  background-color: ${props => props.hexColor ? props.hexColor : 'white'};
+  background-color: ${props => (props.hexColor ? props.hexColor : 'white')};
   border-radius: 50%;
   display: inline-block;
 `;
