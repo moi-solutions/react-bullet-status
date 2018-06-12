@@ -1,6 +1,6 @@
 {
   "name": "react-bullet-status",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Component to show quantity and states with a color circle.",
   "main": "index.js",
   "repository": "https://github.com/moi-solutions/react-bullet-status.git",
